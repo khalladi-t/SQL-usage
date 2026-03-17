@@ -1,4 +1,4 @@
-#Compare performance before_vs_after a regression_date
+#Compare performance before vs after a regression date
 
 DECLARE @CutoverDate datetime2 = 'YYYY-MM-DD';
 
