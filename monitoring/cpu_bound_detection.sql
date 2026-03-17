@@ -1,3 +1,5 @@
+#Prove CPU‑bound execution
+
 SELECT
     session_id,
     cpu_time,
