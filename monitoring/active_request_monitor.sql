@@ -1,3 +1,5 @@
+#Identify the running session, waits, CPU, reads
+
 SELECT
     r.session_id,
     r.status,
