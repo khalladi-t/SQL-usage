@@ -1,0 +1,5 @@
+- Sudden runtime change with no infrastructure change
+- CPU time ~= elapsed time
+- wait_type = NULL
+- Same plan reused repeatedly
+- Query Store shows new
