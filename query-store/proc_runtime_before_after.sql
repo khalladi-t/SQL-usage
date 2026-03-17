@@ -1,3 +1,5 @@
+#Compare performance before vs after a regression date
+
 DECLARE @CutoverDate datetime2 = 'YYYY-MM-DD';
 
 SELECT
