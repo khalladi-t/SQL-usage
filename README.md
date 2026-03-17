@@ -1,4 +1,4 @@
-# SQL-Job-Peformance
+l# SQL-Job-Peformance
 This repository contains SQL diagnostic scripts, DMV queries, and tuning steps used to troubleshoot a major performance regression.
 
 
@@ -26,4 +26,4 @@ SQL Server 2018
 nGenue
 
 # Conclusion 
-The repo documents how to perform a full investigation and the SQL tools used to detect, diagnose, and fix queries affected by sudden plan changes.
+Overall this repo documents how to perform a full investigation and the SQL tools used to detect, diagnose, and fix queries affected by sudden plan changes.
